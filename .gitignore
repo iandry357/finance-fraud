@@ -1,2 +1,6 @@
 *.class
 *.log
+lib/*
+project/*
+target/*
+src/main/resources/*
